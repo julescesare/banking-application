@@ -1,0 +1,83 @@
+.root-container {
+    -fx-font-family: Arial, sans-serif;
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 20px;
+}
+
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 0px;
+    -fx-text-alignment: center;
+    -fx-font-family: "Times New Roman", serif;
+    -fx-text-fill: green;
+}
+
+.table-view {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 0px;
+    -fx-text-alignment: center;
+    -fx-font-family: "Times New Roman", serif;
+}
+.root-container {
+    -fx-font-family: Arial, sans-serif;
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 20px;
+}
+
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 0px;
+    -fx-text-alignment: center;
+    -fx-font-family: "Times New Roman", serif;
+    -fx-text-fill: green;
+}
+
+.table-view {
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.table-column {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+}
+
+.table-cell {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-text-fill: #333333;
+    -fx-alignment: CENTER_LEFT; /* Align text to the left */
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f9f9f9;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #e9e9e9;
+}
+
+.id-column {
+    -fx-font-weight: bold;
+    -fx-text-fill: blue;
+}
+
+.type-compte-column, .numero-compte-column, .date-column, .valeur-column, .taux-placement-column {
+    -fx-text-fill: black;
+}
+
+.table-column {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f9f9f9;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #e9e9e9;
+}

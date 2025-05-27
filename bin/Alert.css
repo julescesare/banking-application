@@ -1,0 +1,17 @@
+/* style.css */
+
+.alert-error {
+    -fx-background-color: #ffcccc; /* Light red background for error alerts */
+    -fx-border-color: #ff0000; /* Red border for error alerts */
+    -fx-border-width: 2px;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.alert-success {
+    -fx-background-color: #38b000; /* Light green background for success alerts */
+    -fx-border-color: #00cc00; /* Green border for success alerts */
+    -fx-border-width: 2px;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
